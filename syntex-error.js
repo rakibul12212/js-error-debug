@@ -35,4 +35,6 @@ console.log(numbers);
 // if (numbers.length > 5) && (numbers[0] === 5){
 
 // }
-if (numbers.length > 5 && numbers[0] === 5)
+if (numbers.length > 5 && numbers[0] === 5) {
+
+}
