@@ -3,6 +3,6 @@ function isBigger(num) {
         return true;
     } else return false;
 }
-
+//}
 const result = isBigger(11);
 console.log(result);
